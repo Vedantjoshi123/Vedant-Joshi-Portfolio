@@ -1,6 +1,6 @@
-# React Portfolio Website
+# Portfolio Master
 
-Welcome to the repository for my React Portfolio website. This project showcases my skills, projects, and achievements. The site is designed using React and includes several interactive components to highlight my professional journey, technical skills, and platform achievements.
+Welcome to my React Portfolio website repository. This project is a showcase of my skills, projects, and achievements. The site is designed using React and includes several interactive components to highlight my professional journey, technical skills, and platform achievements.
 
 ## Features
 
@@ -8,52 +8,49 @@ Welcome to the repository for my React Portfolio website. This project showcases
 - **Skillset Section**: An overview of my professional skills and tools.
 - **GitHub Integration**: A component that displays my GitHub profile information, contributions, and repositories.
 - **Platform Achievements**: Highlights my achievements on various coding platforms.
+- **Projects**: A section to display all my projects categorized by technology.
+- **Responsive Design**: Ensures compatibility across different devices and screen sizes.
+- **Contact Form**: Allows visitors to get in touch with me directly through the website.
 
 ## Components
 
-### 1. `Journey`
+### About
 
-Displays a vertical timeline of professional milestones, including work experience and education.
+- **Platform Pages**: Detailed information and statistics about my profiles on various platforms like CodeChef, Codeforces, GeeksforGeeks, GitHub, HackerRank, and LeetCode.
+- **Platform Achievements**: Overview of achievements and activities on coding platforms.
+- **Tech Stack**: Displays my technical skills and the technologies I use.
+- **Tool Stack**: Highlights the tools and software I am proficient in.
 
-- **Path**: `src/components/Journey/`
-- **Dependencies**:
-  - `react-vertical-timeline-component`
-  - `react-icons`
-- **Styles**: `src/components/Journey/journey.css`
+### Home
 
-### 2. `About`
+- **Home Page**: Introduction and overview of my portfolio.
+- **Contact Page**: Contact form for visitors to reach out to me.
+- **Type Animation**: Typing effect to display dynamic text on the homepage.
 
-The About page introduces who I am, my skills, tools I use, platform achievements, and coding journey.
+### Journey
 
-- **Path**: `src/components/About/`
-- **Dependencies**:
-  - `react-bootstrap`
-  - `react-github-calendar`
-- **Components**:
-  - `Techstack`
-  - `Toolstack`
-  - `GitHubPage`
-  - `PlatformInfo`
-- **Styles**: `src/components/About/about.css`
+- **Journey Section**: Vertical timeline to showcase my professional journey, including education and work experience.
 
-### 3. `GitHubPage`
+### Projects
 
-Shows detailed information about my GitHub profile, including a calendar of contributions and a list of repositories.
+- **All Projects**: Displays all projects I have worked on.
+- **Category Projects**: Categorizes projects based on the technology stack.
+- **Project Cards**: Visual representation of each project with details.
+- **Project Sections**: Organized sections for different types of projects.
 
-- **Path**: `src/components/About/PlatformPages/`
-- **Dependencies**:
-  - `react-github-calendar`
-  - `react-icons`
-- **Styles**: `src/components/About/PlatformPages/GitHubPage.css`
+### Resume
 
-### 4. `PlatformAchievements`
+- **Resume Page**: Downloadable version of my resume.
+- **Footer**: Footer section with additional links and information.
+- **Navbar**: Navigation bar for easy access to different sections of the site.
+- **Particles**: Background particle animation for a modern look.
+- **Scroll to Top**: Button to scroll back to the top of the page.
+- **Side Section**: Additional navigation or information section.
 
-A navigation component to filter and display projects based on technology categories.
+### Services
 
-- **Path**: `src/components/PlatformAchievements/`
-- **Dependencies**:
-  - `react-bootstrap`
-- **Styles**: `src/components/PlatformAchievements/PlatformAchievements.css`
+- **GitHub Service**: Fetches data from GitHub API.
+- **LeetCode Service**: Fetches data from LeetCode API.
 
 ## Installation
 
@@ -85,6 +82,10 @@ Once the development server is running, you can view the site at `http://localho
 
 Feel free to fork the repository and submit pull requests. If you have any suggestions or improvements, please open an issue or contribute to the project.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any questions or feedback, please reach out to me:
@@ -92,3 +93,7 @@ For any questions or feedback, please reach out to me:
 - **Email**: vedantjoshi4406@gmail.com
 - **LinkedIn**: [VedantJoshi](https://www.linkedin.com/in/vedantjoshi)
 - **GitHub**: [Vedantjoshi123](https://github.com/Vedantjoshi123)
+
+---
+
+Thank you for visiting my portfolio repository. I hope you find my work interesting and inspiring!
