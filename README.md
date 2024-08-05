@@ -87,7 +87,7 @@ Feel free to fork the repository and submit pull requests. If you have any sugge
 For any questions or feedback, please reach out to me:
 
 - **Email**: vedantjoshi4406@gmail.com
-- **LinkedIn**: [VedantJoshi](https://www.linkedin.com/in/vedantjoshi)
+- **LinkedIn**: [VedantJoshi](https://www.linkedin.com/in/joshivedant/)
 - **GitHub**: [Vedantjoshi123](https://github.com/Vedantjoshi123)
 
 ---
