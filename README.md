@@ -85,10 +85,6 @@ Once the development server is running, you can view the site at `http://localho
 
 Feel free to fork the repository and submit pull requests. If you have any suggestions or improvements, please open an issue or contribute to the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please reach out to me:
