@@ -1,0 +1,61 @@
+.journey-section{
+    position: relative;
+    align-content: center;
+    padding-bottom: 50px !important;
+    padding-top: 10px !important;
+}
+h3{
+    padding-top: 0.25em;
+}
+.vertical-timeline-element-title{
+    color: #c770f0;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.vertical-timeline-element-subtitle{
+    margin-top: 10px;
+}
+.vertical-timeline-element-content{
+    box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+    opacity: 0.9 !important;
+    transition: all 0.5s ease 0s !important;
+    height: 100% !important;
+}
+.vertical-timeline-element-content:hover {
+    transform: scale(1.02) !important;
+    overflow: hidden !important;
+    cursor: pointer;
+    box-shadow: 0 4px 4px 5px rgba(129, 56, 147, 0.561) !important;
+}
+.icon{
+    width: 50px;
+    margin-top: 5px;
+    border-radius: 50%;
+    background: transparent;
+}
+.date{
+    text-align: start;
+    color: rgba(255, 255, 255, 0.875);
+}
+#description{
+    margin: 1em 0 1em 0;
+}
+.button{
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    color: white;
+    background-color: #c770f0;
+}
+.button:hover{
+    background-color: #8217b3;
+    color: white;
+}
+
+@media only screen and (max-width: 1700px) {
+    .vertical-timeline-element-date{
+        display: block !important;
+        float: none !important;
+        margin-top: 1.5em;
+    }
+}

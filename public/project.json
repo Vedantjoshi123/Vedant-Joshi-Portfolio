@@ -1,0 +1,190 @@
+{
+    "projects": [
+      
+      {
+        "category": "java",
+        "title": "Managing Coin Collection",
+        "description": "Developed a Java-based coin collection management app using J2EE and MySQL, allowing users to effortlessly add, upload, delete, and search for coins with advanced search functionalities, streamlining the coin collection management process.",
+        "imgPath": "/assets/javaProjects/managing_coin.gif",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "java",
+        "title": "House Automation",
+        "description": "Developed a Java-based home automation application for efficient management of diverse appliances in different rooms. Implemented features for adding new devices, controlling device states, and tracking usage duration etc.",
+        "imgPath": "/assets/javaProjects/home_automation.gif",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "java",
+        "title": "Banking System Automation",
+        "description": "Designed and implemented a Java project for Bank, automating key branch functions. Developed features for over-the-counter activities, account lifecycle management, interest calculation, and daily transaction reports. Differentiated account types, such as Savings, Salary, Current, and Loan accounts, with specific functionalities.",
+        "imgPath": "/assets/javaProjects/banking_management.gif",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "spring",
+        "title": "E-commerce Website",
+        "description": "Developed a comprehensive e-commerce platform with Spring Boot, integrating features like Wishlist, cart, Buy Now, and User authentication for a seamless shopping experience. Implemented a Dynamic Admin panel for real-time management of Company details, Departments, Categories, Products, and Order confirmations, enhancing operational efficiency and customer satisfaction.",
+        "imgPath": "/assets/springProjects/ecommerce.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "html",
+        "title": "Solar System",
+        "description": "This website showcases an animated project of the solar system using HTML and CSS, featuring the rotation of the moon, earth, and sun. This project is a visually engaging and interactive way for visitors to learn about the movement of celestial bodies in our solar system.",
+        "imgPath": "/assets/htmlProjects/solarsystem-html.png",
+        "ghLink": "https://github.com/Vedantjoshi123/solar-system",
+        "demoLink": "#"
+      },
+      {
+        "category": "html",
+        "title": "Furniture Shopping",
+        "description": "A simple e-commerce website built using HTML and CSS. This website is designed to help users explore and shop for furniture and home decor items in a user-friendly manner.",
+        "imgPath": "/assets/htmlProjects/furniture-html.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Furniture-Shopping",
+        "demoLink": "#"
+      },
+      {
+        "category": "html",
+        "title": "My Portfolio",
+        "description": "As a web developer and designer, I've created a unique digital experience that showcases my skills and passion for web development. From bold design choices to dynamic elements, I aim to engage you in a way that leaves a lasting impression.",
+        "imgPath": "/assets/htmlProjects/portfolio-html.png",
+        "ghLink": "https://github.com/Vedantjoshi123/My-portfolio",
+        "demoLink": "https://vedantjoshi.netlify.app/"
+      },
+      {
+        "category": "html",
+        "title": "My Profile",
+        "description": "A personal profile website to showcase my projects, skills, and experiences.",
+        "imgPath": "/assets/htmlProjects/profile-html.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "html",
+        "title": "Restaurant Website",
+        "description": "A website built for a restaurant, featuring the menu, services, and contact information.",
+        "imgPath": "/assets/htmlProjects/restaurent-html.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Ved-Restaurant",
+        "demoLink": "#"
+      },
+      {
+        "category": "js",
+        "title": "Calculator",
+        "description": "Unleash Your Math Skills. Dive into HTML wizardry with Calculator, a sleek and functional online calculator. Perfect your calculations with ease. 🔢💻",
+        "imgPath": "/assets/JsReactProjects/calculator-js.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Calculator",
+        "demoLink": "https://calculatorprojectusinghtml.netlify.app/"
+      },
+      {
+        "category": "js",
+        "title": "Calendar",
+        "description": "An interactive calendar application built with JavaScript to keep track of important dates and events.",
+        "imgPath": "/assets/JsReactProjects/calender-js.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      {
+        "category": "js",
+        "title": "Countdown Timer",
+        "description": "Elevate Your Time Management. Crafted with HTML, CSS, and JavaScript Countdown Timer for tracking events, deadlines, and celebrations. ⏳🎉",
+        "imgPath": "/assets/JsReactProjects/countdown-js.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Countdown-timer",
+        "demoLink": "https://countdowntimerproject.netlify.app/"
+      },
+      {
+        "category": "html",
+        "title": "College Website",
+        "description": "A static college website built using HTML and CSS to showcase college information and updates.",
+        "imgPath": "/assets/htmlProjects/college-html.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+
+      {
+        "category": "html",
+        "title": "Static E-commerce Website",
+        "description": "A static e-commerce website built using HTML and CSS, designed to help users explore and shop for products online.",
+        "imgPath": "/assets/htmlProjects/ecommerce-html.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      
+      {
+        "category": "js",
+        "title": "Currency Converter",
+        "description": "Unleash the Power of HTML & CSS in a Dynamic Currency Converter. Seamlessly convert global currencies with style and ease. 💱🎨",
+        "imgPath": "/assets/JsReactProjects/currency-js.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Currency-converter",
+        "demoLink": "https://currencyxchangeproject.netlify.app/"
+      },
+      {
+        "category": "js",
+        "title": "FAQ Toggle",
+        "description": "An interactive FAQ accordion component built with React and Tailwind CSS, featuring dynamic FAQ toggling and multi-selection options.",
+        "imgPath": "/assets/JsReactProjects/faqtoggle-js.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Dynamic-FAQ-Toggle",
+        "demoLink": "#"
+      },
+      {
+        "category": "js",
+        "title": "Dynamic Image Slider",
+        "description": "This project showcases a dynamic and interactive image slider built with ReactJS, designed to fetch and display images seamlessly.",
+        "imgPath": "/assets/JsReactProjects/imageslider-js.png",
+        "ghLink": "https://github.com/Vedantjoshi123/Image-Slider",
+        "demoLink": "https://react-imageslider.netlify.app/"
+      },
+      {
+        "category": "js",
+        "title": "Password Generator",
+        "description": "A robust password generator built with JavaScript to create strong and secure passwords.",
+        "imgPath": "/assets/JsReactProjects/passwordgenerator-js.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+
+
+      {
+        "category": "js",
+        "title": "Portfolio Website",
+        "description": "Developed a responsive portfolio website using React.Js to showcase skills, projects, and achievements. Implemented a clean, user-friendly design with smooth navigation and interactive elements to enhance the user experience.",
+        "imgPath": "/assets/JsReactProjects/portfolio.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+      
+      {
+        "category": "java",
+        "title": "Player Management System",
+        "description": "Created a program in C++ to manage player information for a sports team. The system helps add, update, and find player details, calculate stats like average and strike rate, and highlight top performers. Used file handling to store data effectively, ensuring information stays saved between uses.",
+        "imgPath": "/assets/javaProjects/player_management.gif",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+     
+      
+      {
+        "category": "spring",
+        "title": "Restaurant Website",
+        "description": "Crafted a dynamic restaurant website with responsive design, empowering users to effortlessly book tables, order from the menu, and explore chef information. Key features encompass intuitive interfaces for table reservations and menu selections, detailed chef profiles, and secure payment gateways. Elevating the dining experience, the platform ensures convenient access to restaurant services and information, optimizing both user satisfaction and operational efficiency.",
+        "imgPath": "/assets/springProjects/restaurant.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      },
+
+      {
+        "category": "js",
+        "title": "Increment and Decrement",
+        "description": "A simple counter application that allows users to increment and decrement values dynamically.",
+        "imgPath": "/assets/JsReactProjects/counter-js.png",
+        "ghLink": "#",
+        "demoLink": "#"
+      }
+    ]
+  }
+  

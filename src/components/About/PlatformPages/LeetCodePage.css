@@ -1,0 +1,121 @@
+/* LeetCodePage.css */
+
+.leetcode-page {
+  padding: 20px;
+  background-color: #1b1d1e;
+}
+
+.profile-section {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.profile-card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 15px;
+  background-color: #3e3838;
+  border-radius: 10px;
+}
+
+.avatar {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-details {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.profile-details .bio {
+  margin: 10px 0;
+  color: #6c757d;
+}
+
+.stats-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.stats-card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.stats-card .stats-number {
+  font-size: 1.5em;
+  color: #6f42c1;
+}
+
+.profile-link {
+  color: #6f42c1;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.profile-link:hover {
+  color: #5a3597;
+}
+
+.solved-section, .submission-section {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.solved-heading, .submission-heading {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.solved-count {
+  font-size: 3em;
+  color: #6f42c1;
+}
+
+.submission-item {
+  margin: 10px 0;
+  border: 1px solid #6f42c1;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .profile-section {
+    flex-direction: column;
+  }
+
+  .profile-photo,
+  .profile-info {
+    width: 100%;
+    text-align: center;
+  }
+
+  .stats-row {
+    flex-direction: column;
+  }
+
+  .stats-item {
+    margin: 10px 0;
+  }
+}
